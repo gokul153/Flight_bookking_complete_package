@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Java_util_oct2.iml" filepath="$PROJECT_DIR$/.idea/Java_util_oct2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java_Sources/gokulassignment.iml" filepath="$PROJECT_DIR$/Java_Sources/gokulassignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Sources/src/main/main.iml" filepath="$PROJECT_DIR$/Java_Sources/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Sources/src/test/test.iml" filepath="$PROJECT_DIR$/Java_Sources/src/test/test.iml" />
     </modules>
   </component>
 </project>
